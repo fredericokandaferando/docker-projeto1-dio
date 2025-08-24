@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>Informações sobre Docker</title>
+</head>
+<body>
+  <h1>O que é o Docker?</h1>
+  <p>Docker é uma plataforma para criar, distribuir e executar aplicações em containers leves e portáteis, isolando a aplicação do ambiente do sistema operativo.</p>
+
+  <h1>Por que usar Docker?</h1>
+  <p>Docker simplifica o desenvolvimento e a implantação: garante que a aplicação rode da mesma forma em qualquer máquina, reduz conflitos de dependências e facilita escalabilidade.</p>
+
+  <h1>Componentes principais do Docker</h1>
+  <p>Os principais componentes incluem: imagens (blueprints imutáveis), containers (instâncias em execução), Docker Engine (o runtime) e Docker Hub (repositório de imagens).</p>
+</body>
+</html>

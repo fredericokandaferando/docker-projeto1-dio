@@ -1,0 +1,78 @@
+<html lang="pt-BR">
+<p>Este é um modelo básico para você começar. Edite os textos abaixo como preferir.</p>
+<figure>
+<img src="https://via.placeholder.com/640x200" alt="Imagem ilustrativa" width="640" height="200">
+<figcaption>Legenda de exemplo para a imagem.</figcaption>
+</figure>
+</section>
+
+
+<section id="lista">
+<h2>Lista de Tarefas (estática)</h2>
+<ul>
+<li>Aprender HTML</li>
+<li>Escrever minha primeira página</li>
+<li>Publicar no GitHub Pages</li>
+</ul>
+<h3>Passos</h3>
+<ol>
+<li>Criar o arquivo <code>index.html</code></li>
+<li>Salvar e abrir no navegador</li>
+<li>Editar o conteúdo conforme necessário</li>
+</ol>
+</section>
+
+
+<section id="tabela">
+<h2>Tabela simples</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+<thead>
+<tr>
+<th>Item</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HTML</td>
+<td>Linguagem de marcação para estruturar páginas.</td>
+</tr>
+<tr>
+<td>Semântica</td>
+<td>Uso correto das tags para dar significado ao conteúdo.</td>
+</tr>
+</tbody>
+</table>
+</section>
+
+
+<section id="contato">
+<h2>Contato</h2>
+<form>
+<p>
+<label for="nome">Nome:</label><br>
+<input id="nome" name="nome" type="text" placeholder="Seu nome">
+</p>
+<p>
+<label for="email">Email:</label><br>
+<input id="email" name="email" type="email" placeholder="voce@exemplo.com">
+</p>
+<p>
+<label for="mensagem">Mensagem:</label><br>
+<textarea id="mensagem" name="mensagem" rows="4" cols="40" placeholder="Escreva sua mensagem"></textarea>
+</p>
+<p>
+<button type="submit">Enviar</button>
+</p>
+</form>
+</section>
+</main>
+
+
+<!-- Rodapé -->
+<footer>
+<hr>
+<p>&copy; 2025 Minha Página. Todos os direitos reservados.</p>
+</footer>
+</body>
+</html>
